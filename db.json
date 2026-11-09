@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "RELAY 10A 12V",
+        "PN": "HF118F 012-11ZS1",
+        "MF": "HONGFA"
+      },
+      "MID": "MID20375",
+      "MD": "The HF118F 012-11ZS1 decodes as a specific miniature high-power electromagnetic PCB relay manufactured by Hongfa. It is widely used in compact electronic modules, home appliances, and industrial controls.\r\n\r\n• Contact Rating: 10A at 250VAC / 30VDC.\n• Coil Resistance: 620 Ω (with a low power consumption of approximately 220mW).\n• Must-Operate Voltage: Max 8.4V DC.\n• Must-Release Voltage: Min 1.2V DC.\n• Dielectric Strength: 5,000 VAC between coil and contacts (reinforced insulation meeting VDE standards).\n• Dimensions: 28.5 mm × 10.1 mm × 12.5 mm.\n• Contact Material: Silver Tin Oxide (AgSnO2) for enhanced electrical endurance and resistance to welding.",
+      "MT": "Electronic Material",
+      "MQNT": 8,
+      "MCost": 297.88,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20375%2Fmain%2FHF118F%20012-11ZS1.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20375/main/IMG_20261109_130436.jpg"
+      ]
+    }
+  ]
+}
